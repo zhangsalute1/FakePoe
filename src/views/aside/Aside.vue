@@ -7,8 +7,8 @@
   </div>
 </template>
 <script setup>
-import AsideHeader from '@/views/home/AsideHeader.vue';
-import AsideMenu from '@/views/home/AsideMenu.vue';
+import AsideHeader from '@/views/aside/AsideHeader.vue';
+import AsideMenu from '@/views/aside/AsideMenu.vue';
 </script>
 <style scoped>
 .sidebar {

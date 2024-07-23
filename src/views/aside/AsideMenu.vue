@@ -13,16 +13,14 @@
     <div class="divider"></div>
     <!-- 发送反馈 -->
     <AsideMenuSecion5 />
-    <!-- sidebarFooter -->
   </div>
 </template>
 <script setup>
-import AsideMenuSecion1 from '@/views/home/AsideMenuSecion1.vue';
-import AsideMenuSecion2 from '@/views/home/AsideMenuSecion2.vue';
-import AsideMenuSecion3 from '@/views/home/AsideMenuSecion3.vue';
-import AsideMenuSecion4 from '@/views/home/AsideMenuSecion4.vue';
-import AsideMenuSecion5 from '@/views/home/AsideMenuSecion5.vue';
-import sidebarFooter from '@/views/home/sidebarFooter.vue';
+import AsideMenuSecion1 from '@/views/aside/AsideMenuSecion1.vue';
+import AsideMenuSecion2 from '@/views/aside/AsideMenuSecion2.vue';
+import AsideMenuSecion3 from '@/views/aside/AsideMenuSecion3.vue';
+import AsideMenuSecion4 from '@/views/aside/AsideMenuSecion4.vue';
+import AsideMenuSecion5 from '@/views/aside/AsideMenuSecion5.vue';
 </script>
 <style scoped>
 .sidebar_main_xia {
